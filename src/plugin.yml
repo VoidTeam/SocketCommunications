@@ -1,0 +1,18 @@
+name: SocketCommunications
+version: 1.7.10
+description: Add enhanced interfacing for networking based communcations.
+
+author: Robby Duke
+authors: [jacklink01, NoEff3x, iAd4m, Suraski]
+website: http://forums.bukkit.org/threads/MyPlugin.31337/
+
+main: net.voidteam.networking.SocketCommunications
+database: false
+depend: []
+
+commands:
+  module:
+    description: Command suite to manage SocketCommunications enabled module.
+    aliases: []
+    permission: net.voidteam.networking.module
+    usage: Syntax error!
